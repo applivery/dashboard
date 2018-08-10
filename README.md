@@ -2,7 +2,7 @@
 
 Under this repo you'll find the next features we are planning to release for the different projects that compose [Applivery.com](https://www.applivery.com)
 
-### Projects:
+### Projects
 - [Dashboard](https://github.com/applivery/roadmap/projects/1)
 - [Private App Store](https://github.com/applivery/roadmap/projects/2)
 
