@@ -1,1 +1,11 @@
-# Applivery Dashboard
+# Applivery Roadmap
+
+Under this repo you'll find the next features we are planning to release for the different projects that compose [Applivery.com](https://www.applivery.com)
+
+### Projects:
+- [Dashboard](https://github.com/applivery/roadmap/projects/1)
+- [Private App Store](https://github.com/applivery/roadmap/projects/2)
+
+### Feature requests
+You can request new features by opening a [New Issue](https://github.com/applivery/roadmap/issues/new).
+Please make sure you describe appropriately your need
