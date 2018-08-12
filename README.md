@@ -10,4 +10,5 @@ Under this repository you'll find the next features we are planning to release f
 ### Feature requests
 You can request new features by opening a [New Issue](https://github.com/applivery/roadmap/issues/new).
 Please make sure you describe appropriately your need before submitting the request.
+
 You can also contact us at [support@applivery.com](support@applivery.com) at any time.
