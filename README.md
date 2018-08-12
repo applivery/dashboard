@@ -7,8 +7,7 @@ Under this repository you'll find the next features we are planning to release f
 - [Private App Store](https://github.com/applivery/roadmap/projects/2)
 - [Native SDKs](https://github.com/applivery/roadmap/projects/3)
 
-### Releases
-
+### Releases
 **Previous:**
 - [Aug 2018](https://github.com/applivery/roadmap/milestone/4?closed=1)
 
