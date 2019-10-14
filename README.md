@@ -14,11 +14,12 @@ Under this repository you'll find the next features we are planning to release f
 - [June 2019 (AKA: Applivery 3.0)](https://github.com/applivery/roadmap/milestone/5)
 - [July 2019](https://github.com/applivery/roadmap/milestone/6)
 - [Aug 2019](https://github.com/applivery/roadmap/milestone/7)
+- [Sept 2019](https://github.com/applivery/roadmap/milestone/8)
 
 **Upcoming:**
-- [Sept 2019](https://github.com/applivery/roadmap/milestone/8)
 - [Oct 2019](https://github.com/applivery/roadmap/milestone/9)
 - [Nov 2019](https://github.com/applivery/roadmap/milestone/10)
+- [Dec 2019](https://github.com/applivery/roadmap/milestone/11)
 
 ## Feature requests
 You can request new features by opening a [New Feature Request](https://github.com/applivery/roadmap/issues/new?assignees=&labels=&template=feature_request.md&title=).
