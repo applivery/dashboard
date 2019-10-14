@@ -11,10 +11,10 @@ Under this repository you'll find the next features we are planning to release f
 ## Releases
 **Previous:**
 
-- [June 2019 (AKA: Applivery 3.0)](https://github.com/applivery/roadmap/milestone/5)
-- [July 2019](https://github.com/applivery/roadmap/milestone/6)
-- [Aug 2019](https://github.com/applivery/roadmap/milestone/7)
-- [Sept 2019](https://github.com/applivery/roadmap/milestone/8)
+- [June 2019 (AKA: Applivery 3.0)](https://github.com/applivery/roadmap/milestone/5?closed=1)
+- [July 2019](https://github.com/applivery/roadmap/milestone/6?closed=1)
+- [Aug 2019](https://github.com/applivery/roadmap/milestone/7?closed=1)
+- [Sept 2019](https://github.com/applivery/roadmap/milestone/8?closed=1)
 
 **Upcoming:**
 - [Oct 2019](https://github.com/applivery/roadmap/milestone/9)
