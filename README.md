@@ -18,13 +18,18 @@ Under this repository you'll find the next features we are planning to release f
 - [Oct 2019](https://github.com/applivery/roadmap/milestone/9)
 - [Nov 2019](https://github.com/applivery/roadmap/milestone/10)
 - [Dec 2019](https://github.com/applivery/roadmap/milestone/11)
-
-**Upcoming:**
 - [Q1 2020](https://github.com/applivery/roadmap/milestone/12) (Release date to be defined)
   - [Jan 2020](https://github.com/applivery/roadmap/milestone/13)
   - [Feb 2020](https://github.com/applivery/roadmap/milestone/14)
   - [Mar 2020](https://github.com/applivery/roadmap/milestone/15)
+
+**Upcoming:**
+
 - [Q2 2020](https://github.com/applivery/roadmap/milestone/16) (Release date to be defined)
+  - [Apr 2020](https://github.com/applivery/roadmap/milestone/17)
+  - [May 2020](https://github.com/applivery/roadmap/milestone/18)
+  - [Jun 2020](https://github.com/applivery/roadmap/milestone/19)
+- [Q3 2020](https://github.com/applivery/roadmap/milestone/20) (Release date to be defined)
 
 ## Feature requests
 You can request new features by opening a [New Feature Request](https://github.com/applivery/roadmap/issues/new?assignees=&labels=&template=feature_request.md&title=).
