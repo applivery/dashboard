@@ -9,6 +9,14 @@ Under this repository you'll find the next features we are planning to release f
 - [Fastlane plugin](https://github.com/fastlane-community/fastlane-plugin-applivery)
 
 ## Releases
+**Upcoming:**
+
+- [Q2 2020](https://github.com/applivery/roadmap/milestone/16) (Release date to be defined)
+  - [Apr 2020](https://github.com/applivery/roadmap/milestone/17)
+  - [May 2020](https://github.com/applivery/roadmap/milestone/18)
+  - [Jun 2020](https://github.com/applivery/roadmap/milestone/19)
+- [Q3 2020](https://github.com/applivery/roadmap/milestone/20) (Release date to be defined)
+
 **Previous:**
 
 - [June 2019 (AKA: Applivery 3.0)](https://github.com/applivery/roadmap/milestone/5?closed=1)
@@ -22,14 +30,6 @@ Under this repository you'll find the next features we are planning to release f
   - [Jan 2020](https://github.com/applivery/roadmap/milestone/13)
   - [Feb 2020](https://github.com/applivery/roadmap/milestone/14)
   - [Mar 2020](https://github.com/applivery/roadmap/milestone/15)
-
-**Upcoming:**
-
-- [Q2 2020](https://github.com/applivery/roadmap/milestone/16) (Release date to be defined)
-  - [Apr 2020](https://github.com/applivery/roadmap/milestone/17)
-  - [May 2020](https://github.com/applivery/roadmap/milestone/18)
-  - [Jun 2020](https://github.com/applivery/roadmap/milestone/19)
-- [Q3 2020](https://github.com/applivery/roadmap/milestone/20) (Release date to be defined)
 
 ## Feature requests
 You can request new features by opening a [New Feature Request](https://github.com/applivery/roadmap/issues/new?assignees=&labels=&template=feature_request.md&title=).
