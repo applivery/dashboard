@@ -11,8 +11,8 @@ Under this repository you'll find the next features we are planning to release f
 ## Releases
 **Upcoming:**
 
-- [Q1 2021](https://github.com/applivery/roadmap/milestone/22)
 - [Q2 2021](https://github.com/applivery/roadmap/milestone/23)
+- [Q3 2021](https://github.com/applivery/roadmap/milestone/24)
 
 **Previous:**
 
@@ -33,6 +33,7 @@ Under this repository you'll find the next features we are planning to release f
   - [Jun 2020](https://github.com/applivery/roadmap/milestone/19)
 - [Q3 2020](https://github.com/applivery/roadmap/milestone/20)
 - [Q4 2020](https://github.com/applivery/roadmap/milestone/21)
+- [Q1 2021](https://github.com/applivery/roadmap/milestone/22)
 
 ## Feature requests
 You can request new features by opening a [New Feature Request](https://github.com/applivery/roadmap/issues/new?assignees=&labels=&template=feature_request.md&title=).
