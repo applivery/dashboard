@@ -7,6 +7,8 @@ Under this repository you'll find the next features we are planning to release f
 - [iOS SDK](https://github.com/applivery/applivery-ios-sdk/projects/1)
 - [Android SDK](https://github.com/applivery/applivery-android-sdk/projects/1)
 - [Fastlane plugin](https://github.com/fastlane-community/fastlane-plugin-applivery)
+- [Bitrise iOS step](https://github.com/applivery/steps-applivery-ios-deploy)
+- [Bitrise Android step](https://github.com/applivery/steps-applivery-android-deploy)
 
 ## Releases
 **Upcoming:**
