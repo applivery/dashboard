@@ -13,6 +13,7 @@ Under this repository you'll find the next features we are planning to release f
 
 - [Q2 2021](https://github.com/applivery/roadmap/milestone/23)
 - [Q3 2021](https://github.com/applivery/roadmap/milestone/24)
+- [Q4 2021](https://github.com/applivery/roadmap/milestone/25)
 
 **Previous:**
 
