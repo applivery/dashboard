@@ -29,13 +29,13 @@ body:
     attributes:
       label: To Reproduce
       description: Steps to reproduce the behavior
-      placeholder: "Go to '...'
-      Click on '....'
-      Scroll down to '....'
+      placeholder: "Go to '...'\n
+      Click on '....'\n
+      Scroll down to '....'\n
       See error"
-      value: "Go to '...'
-      Click on '....'
-      Scroll down to '....'
+      value: "Go to '...'\n
+      Click on '....'\n
+      Scroll down to '....'\n
       See error"
     validations:
       required: true
