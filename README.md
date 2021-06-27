@@ -13,19 +13,21 @@ Under this repository you'll find the next features we are planning to release f
 ## Releases
 **Upcoming:**
 
-- [Q2 2021](https://github.com/applivery/roadmap/milestone/23)
 - [Q3 2021](https://github.com/applivery/roadmap/milestone/24)
 - [Q4 2021](https://github.com/applivery/roadmap/milestone/25)
+- [Q1 2022](https://github.com/applivery/roadmap/milestone/26)
 
 **Previous:**
 
 - [June 2019 (AKA: Applivery 3.0)](https://github.com/applivery/roadmap/milestone/5?closed=1)
-- [July 2019](https://github.com/applivery/roadmap/milestone/6?closed=1)
-- [Aug 2019](https://github.com/applivery/roadmap/milestone/7?closed=1)
-- [Sept 2019](https://github.com/applivery/roadmap/milestone/8?closed=1)
-- [Oct 2019](https://github.com/applivery/roadmap/milestone/9)
-- [Nov 2019](https://github.com/applivery/roadmap/milestone/10)
-- [Dec 2019](https://github.com/applivery/roadmap/milestone/11)
+- [Q3 2019]
+  - [July 2019](https://github.com/applivery/roadmap/milestone/6?closed=1)
+  - [Aug 2019](https://github.com/applivery/roadmap/milestone/7?closed=1)
+  - [Sept 2019](https://github.com/applivery/roadmap/milestone/8?closed=1)
+- [Q4 2019]
+  - [Oct 2019](https://github.com/applivery/roadmap/milestone/9)
+  - [Nov 2019](https://github.com/applivery/roadmap/milestone/10)
+  - [Dec 2019](https://github.com/applivery/roadmap/milestone/11)
 - [Q1 2020](https://github.com/applivery/roadmap/milestone/12)
   - [Jan 2020](https://github.com/applivery/roadmap/milestone/13)
   - [Feb 2020](https://github.com/applivery/roadmap/milestone/14)
@@ -37,6 +39,7 @@ Under this repository you'll find the next features we are planning to release f
 - [Q3 2020](https://github.com/applivery/roadmap/milestone/20)
 - [Q4 2020](https://github.com/applivery/roadmap/milestone/21)
 - [Q1 2021](https://github.com/applivery/roadmap/milestone/22)
+- [Q2 2021](https://github.com/applivery/roadmap/milestone/23)
 
 ## Feature requests
 You can request new features by opening a [New Feature Request](https://github.com/applivery/roadmap/issues/new?assignees=CesarTrigo&labels=feature&template=feature-request.yml&title=%5BFeature%5D%3A+).
