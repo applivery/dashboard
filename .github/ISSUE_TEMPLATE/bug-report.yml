@@ -1,0 +1,96 @@
+name: Bug Report
+description: Report a bug report
+title: "[Bug]: "
+labels: [bug, triage]
+assignees:
+  - CesarTrigoEs
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+      placeholder: Tell us what you see!
+      value: ""
+    validations:
+      required: true
+  - type: textarea
+    id: how-to-reproduce
+    attributes:
+      label: To Reproduce
+      description: Steps to reproduce the behavior
+      placeholder: "Go to '...'
+      Click on '....'
+      Scroll down to '....'
+      See error"
+      value: ""
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behaviour
+    attributes:
+      label: Expected behaviour
+      description: A clear and concise description of what you expected to happen
+      placeholder: I expected that...
+      value: ""
+    validations:
+      required: true
+  - type: checkboxes
+    id: where
+    attributes:
+      label: Where has it happened?
+      description: Please select all that apply
+      options:
+        - Dashboard
+        - App Store
+        - Website
+        - API
+        - iOS SDK
+        - Android SDK
+    validations:
+      required: true
+  - type: textarea
+    id: operative-system
+    attributes:
+      label: Operative System
+      description: What Operative System are you seeing the problem on?
+      placeholder: "OS: [e.g. iOS]
+        Browser [e.g. chrome, safari]
+        Version [e.g. 22]"
+      value: "OS: [e.g. iOS]
+        Browser [e.g. chrome, safari]
+        Version [e.g. 22]"
+    validations:
+      required: true
+  - type: textarea
+    id: browser
+    attributes:
+      label: Operative System
+      description: What browsers are you seeing the problem on?
+      placeholder: "Device: [e.g. iPhone6]
+        OS: [e.g. iOS8.1]
+        Browser [e.g. stock browser, safari]
+        Version [e.g. 22]"
+      value: "Device: [e.g. iPhone6]
+        OS: [e.g. iOS8.1]
+        Browser [e.g. stock browser, safari]
+        Version [e.g. 22]"
+    validations:
+      required: true
+  - type: textarea
+    id: aditional-context
+    attributes:
+      label: Additional context
+      description: Add any additional context about the problem here
