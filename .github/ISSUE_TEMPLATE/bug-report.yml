@@ -44,7 +44,6 @@ body:
       label: Expected behaviour
       description: A clear and concise description of what you expected to happen
       placeholder: I expected that...
-      value: ""
     validations:
       required: true
   - type: checkboxes
@@ -53,12 +52,12 @@ body:
       label: Where has it happened?
       description: Please select all that apply
       options:
-        - Dashboard
-        - App Store
-        - Website
-        - API
-        - iOS SDK
-        - Android SDK
+        - label: Dashboard
+        - label: App Store
+        - label: Website
+        - label: API
+        - label: iOS SDK
+        - label: Android SDK
     validations:
       required: true
   - type: textarea
