@@ -1,7 +1,7 @@
 name: Bug Report
 description: Report a bug report
 title: "[Bug]: "
-labels: [bug, triage]
+labels: [bug]
 assignees:
   - CesarTrigoEs
 body:
@@ -66,12 +66,8 @@ body:
     attributes:
       label: Operative System
       description: What Operative System are you seeing the problem on?
-      placeholder: "OS: [e.g. iOS]
-        \nBrowser [e.g. chrome, safari]
-        \nVersion [e.g. 22]"
-      value: "OS: [e.g. iOS]
-        \nBrowser [e.g. chrome, safari]
-        \nVersion [e.g. 22]"
+      placeholder: "OS: [e.g. iOS, MacOS, Windows, Android]\nBrowser: [e.g. Chrome, Safari, Microsoft Edge]\nVersion: [e.g. 22]"
+      value: "OS: [e.g. iOS, MacOS, Windows, Android]\nBrowser: [e.g. Chrome, Safari, Microsoft Edge]\nVersion: [e.g. 22]"
     validations:
       required: true
   - type: textarea
@@ -79,14 +75,8 @@ body:
     attributes:
       label: Operative System
       description: What browsers are you seeing the problem on?
-      placeholder: "Device: [e.g. iPhone6]
-        OS: [e.g. iOS8.1]
-        \nBrowser [e.g. stock browser, safari]
-        \nVersion [e.g. 22]"
-      value: "Device: [e.g. iPhone6]
-        OS: [e.g. iOS8.1]
-        \nBrowser [e.g. stock browser, safari]
-        \nVersion [e.g. 22]"
+      placeholder: "Device: [e.g. iPhone 11 Pro]\nOS: [e.g. iOS14.6]\nBrowser: [e.g. stock browser, safari, chome]\nVersion: [e.g. 22]"
+      value: "Device: [e.g. iPhone 11 Pro]\nOS: [e.g. iOS14.6]\nBrowser: [e.g. Stock browser, Safari, Chrome]\nVersion: [e.g. 22]"
     validations:
       required: true
   - type: textarea
