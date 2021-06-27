@@ -29,14 +29,14 @@ body:
     attributes:
       label: To Reproduce
       description: Steps to reproduce the behavior
-      placeholder: "Go to '...'\n
-     Click on '....'\n
-     Scroll down to '....'\n
-     See error"
-      value: "Go to '...'\n
-     Click on '....'\n
-     Scroll down to '....'\n
-     See error"
+      placeholder: "Go to '...'
+      \nClick on '....'
+      \nScroll down to '....'\n
+      \nSee error"
+      value: "Go to '...'
+      \nClick on '....'
+      \nScroll down to '....'\n
+      \nSee error"
     validations:
       required: true
   - type: textarea
@@ -67,11 +67,11 @@ body:
       label: Operative System
       description: What Operative System are you seeing the problem on?
       placeholder: "OS: [e.g. iOS]
-        Browser [e.g. chrome, safari]
-        Version [e.g. 22]"
+        \nBrowser [e.g. chrome, safari]
+        \nVersion [e.g. 22]"
       value: "OS: [e.g. iOS]
-        Browser [e.g. chrome, safari]
-        Version [e.g. 22]"
+        \nBrowser [e.g. chrome, safari]
+        \nVersion [e.g. 22]"
     validations:
       required: true
   - type: textarea
