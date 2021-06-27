@@ -3,7 +3,7 @@ description: Create a bug report to help us improve
 title: "[Bug]: "
 labels: [bug]
 assignees:
-  - CesarTrigoEs
+  - CesarTrigo
 body:
   - type: markdown
     attributes:
