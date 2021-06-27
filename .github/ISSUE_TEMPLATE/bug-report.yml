@@ -30,13 +30,13 @@ body:
       label: To Reproduce
       description: Steps to reproduce the behavior
       placeholder: "Go to '...'\n
-      Click on '....'\n
-      Scroll down to '....'\n
-      See error"
+     Click on '....'\n
+     Scroll down to '....'\n
+     See error"
       value: "Go to '...'\n
-      Click on '....'\n
-      Scroll down to '....'\n
-      See error"
+     Click on '....'\n
+     Scroll down to '....'\n
+     See error"
     validations:
       required: true
   - type: textarea
