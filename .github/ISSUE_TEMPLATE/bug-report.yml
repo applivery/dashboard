@@ -81,12 +81,12 @@ body:
       description: What browsers are you seeing the problem on?
       placeholder: "Device: [e.g. iPhone6]
         OS: [e.g. iOS8.1]
-        Browser [e.g. stock browser, safari]
-        Version [e.g. 22]"
+        \nBrowser [e.g. stock browser, safari]
+        \nVersion [e.g. 22]"
       value: "Device: [e.g. iPhone6]
         OS: [e.g. iOS8.1]
-        Browser [e.g. stock browser, safari]
-        Version [e.g. 22]"
+        \nBrowser [e.g. stock browser, safari]
+        \nVersion [e.g. 22]"
     validations:
       required: true
   - type: textarea
