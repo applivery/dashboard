@@ -39,11 +39,11 @@ Under this repository you'll find the next features we are planning to release f
 - [Q1 2021](https://github.com/applivery/roadmap/milestone/22)
 
 ## Feature requests
-You can request new features by opening a [New Feature Request](https://github.com/applivery/roadmap/issues/new?assignees=&labels=&template=feature_request.md&title=).
+You can request new features by opening a [New Feature Request](https://github.com/applivery/roadmap/issues/new?assignees=CesarTrigo&labels=feature&template=feature-request.yml&title=%5BFeature%5D%3A+).
 Please make sure you describe appropriately your need before submitting the request.
 
 ## Bug reports
-You can report bugs by opening a [New Bug Report](https://github.com/applivery/roadmap/issues/new?assignees=&labels=&template=bug_report.md&title=).
+You can report bugs by opening a [New Bug Report](https://github.com/applivery/roadmap/issues/new?assignees=CesarTrigo&labels=bug&template=bug-report.yml&title=%5BBug%5D%3A+).
 Please make sure you describe appropriately the issue before submitting the request. All bug reports will go through a [triage](https://github.com/orgs/applivery/projects/5) before fixing.
 
 
