@@ -7,8 +7,7 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
+      value: Thanks for taking the time to fill out this bug report!
   - type: input
     id: contact
     attributes:
@@ -23,7 +22,6 @@ body:
       label: Describe the bug
       description: A clear and concise description of what the bug is.
       placeholder: Tell us what you see!
-      value: ""
     validations:
       required: true
   - type: textarea
@@ -35,7 +33,10 @@ body:
       Click on '....'
       Scroll down to '....'
       See error"
-      value: ""
+      value: "Go to '...'
+      Click on '....'
+      Scroll down to '....'
+      See error"
     validations:
       required: true
   - type: textarea
